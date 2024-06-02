@@ -4,17 +4,18 @@
 <br></br>
 I'm interested in various topics. <br> </br>
   <li>AI fundamentals and the utilization in accessibility</li>
-  <li>Game Development Animation</li>
-  <li>Game Development using C# and C++</li>
+  <li>Game Development</li>
+  <li>Web Development</li>
 
   <br></br>
   <h1>I'm currently working on</h1>
   <li>Liminality Gaming Co. First Game Release: "Title Unknown"</li>
-  <li>Odins Temple (Top-Down RPG focusing on survival)</li>
+  <li>Personal Portfolio projects</li>
   <br></br>
   <h1>I'm currently learning</h1>
-  <li>Languages: Python, JavaScript, Ruby, C#, C++</li>
+  <li>Languages: JavaScript, Ruby</li>
   <li>Design: 3D modeling in Blender</li>
+  <li>The Odin Project: Javascript and Ruby on Rails Certification</li>
 
 
 
